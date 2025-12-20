@@ -2,9 +2,8 @@
 
 > **DIC 2025 Finance Track (Track 04) – Stage 1 Submission**  
 > Team: DIC04-AI_Finance
-> Repository: `DIC04-ETF-Navigator`  
-> Live Demo: yet to publish
-> 📅 Stage 1 Deadline: December 24, 2025
+> Repository: `DIC04-AI_Finance`  
+> Live Demo: contemporary demo site: https://etf-navigator-copy-fb62a339.base44.app/AIAssistant
 
 ---
 
@@ -80,9 +79,8 @@ The core of ETF Navigator is an **autonomous AI Agent** implemented via Base44�
 
 > **DIC 2025 金融赛道（赛道 04）– 第一赛段提交**  
 > 团队：DIC04-AI_Finance  
-> 代码仓库：`DIC04-ETF-Navigator`  
-> 在线演示：尚未发布  
-> 📅 第一赛段截止日期：2025 年 12 月 24 日
+> 代码仓库：`DIC04-AI_Finance`  
+> 在线演示：暂定的演示地址：https://etf-navigator-copy-fb62a339.base44.app/AIAssistant
 
 ---
 
