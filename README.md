@@ -74,6 +74,11 @@ The core of ETF Navigator is an **autonomous AI Agent** implemented via Base44�
 ---
 
 
+README-ZH
+
+
+---
+
 
 # ETF Navigator：面向可持续投资发现的 AI Agent
 
