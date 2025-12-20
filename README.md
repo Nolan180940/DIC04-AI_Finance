@@ -71,3 +71,81 @@ The core of ETF Navigator is an **autonomous AI Agent** implemented via Base44�
 - This repository is **private** and shared with `NYUSH_DIC` as requested.  
 
 © [DIC04-AI_Finance], 2025. For DIC 2025 competition use only.
+
+---
+
+
+
+# ETF Navigator：面向可持续投资发现的 AI Agent
+
+> **DIC 2025 金融赛道（赛道 04）– 第一赛段提交**  
+> 团队：DIC04-AI_Finance  
+> 代码仓库：`DIC04-ETF-Navigator`  
+> 在线演示：尚未发布  
+> 📅 第一赛段截止日期：2025 年 12 月 24 日
+
+---
+
+## 🎯 项目概述
+
+**ETF Navigator** 是一个由 AI 驱动的投资研究平台，帮助用户发现、分析和监控**可持续型 ETF**（例如清洁能源、ESG 主题基金）。
+
+与传统金融仪表盘不同，本系统围绕一个**AI Agent**构建，具备以下能力：
+- 获取并整合实时市场数据  
+- 用通俗语言总结新闻与趋势  
+- 突出展示与可持续发展目标对齐的投资机会  
+- 同时支持美国与中国市场  
+
+本项目直接响应赛道主题：  
+**“AI Agent 解锁可持续发展的金融潜力”**。
+
+---
+
+## 🤖 AI Agent 设计
+
+ETF Navigator 的核心是一个**自主运行的 AI Agent**，通过 Base44 平台的 LLM 集成层实现，其工作流程如下：
+
+1. **感知（Perception）**  
+   接收用户查询或定时触发指令（例如：“显示今日市场简报”）。
+
+2. **推理与数据获取（Reasoning & Data Retrieval）**  
+   使用结构化提示（prompt）调用具备联网能力的大语言模型（LLM，启用 `add_context_from_internet: true`），指令 LLM：  
+   - 从可信金融信源（如美联社 AP News、基金公司官网）搜索信息  
+   - 提取结构化数据（指数、ETF 价格、板块表现）  
+   - 识别与可持续性相关的类别（如“清洁能源”、“低碳”）
+
+3. **行动与透明度（Action & Transparency）**  
+   返回经校验的 JSON 数据驱动前端界面。  
+   所有推荐均包含**数据来源引用**（如源链接），确保可审计性与透明度。
+
+---
+
+## 🔧 技术实现
+
+| 组件 | 技术与方法 |
+|------|-----------|
+| **前端与 Agent 逻辑** | 基于 [Base44](https://app.base44.com/) 构建 —— 一个面向 AI 原生应用的低代码平台 |
+| **数据获取** | 通过 LLM 联网获取公开金融数据（**未使用任何私有 API**） |
+| **可持续聚焦** | 专设“清洁能源 ETF”、“ESG 分析”、“中国绿色金融”等模块 |
+| **伦理设计** | - 不收集用户任何财务或身份信息<br>- 所有输出标注“仅限信息参考，不构成投资建议”<br>- 在脚注中披露数据来源 |
+
+> 🔐 **说明**：在线演示托管于 Base44，用于快速原型开发。**所有自定义逻辑（页面组件、提示词、数据模型）均已手动导出，并完整包含在本代码仓库中**，以确保透明度与评审可查性。
+
+---
+
+## 📁 代码仓库结构
+
+- `/pages` – 核心页面组件（Dashboard、Research、Watchlist 等）  
+- `/components` – 可复用 UI 模块（MarketOverview、PopularETFs 等）  
+- `/entities` – 数据模型（ETF、WatchlistItem）  
+- `/integrations` – 核心 LLM 调用逻辑（`Core.js`）  
+- `proposal.pdf` – 完整第一赛段提案  
+- `demo.mp4` – 3 分钟演示视频
+
+---
+
+## 📜 提交合规性声明
+
+- 本仓库为**私有仓库**，并已按要求邀请 `NYUSH_DIC` 为协作者。  
+
+© DIC04-AI_Finance，2025。仅供 DIC 2025 竞赛使用。
