@@ -67,7 +67,7 @@ The core of ETF Navigator is an **autonomous AI Agent** implemented via Base44�
 
 ## 📜 Submission Compliance
 
-- This repository is **private** and shared with `NYUSH_DIC` as requested.  
+- This repository is **private** and shared with `NYUSH_DIC` and team members as requested.  
 
 © [DIC04-AI_Finance], 2025. For DIC 2025 competition use only.
 
@@ -149,6 +149,6 @@ ETF Navigator 的核心是一个**自主运行的 AI Agent**，通过 Base44 平
 
 ## 📜 提交合规性声明
 
-- 本仓库为**私有仓库**，并已按要求邀请 `NYUSH_DIC` 为协作者。  
+- 本仓库为**私有仓库**，并已按要求邀请 `NYUSH_DIC` 与其他参赛队员为协作者。  
 
 © DIC04-AI_Finance，2025。仅供 DIC 2025 竞赛使用。
