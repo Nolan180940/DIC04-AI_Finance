@@ -46,7 +46,7 @@ The core of ETF Navigator is an **autonomous AI Agent** implemented via Base44�
 | Component       | Technology / Approach                                                                 |
 |-----------------|----------------------------------------------------------------------------------------|
 | **Frontend & Agent Logic** | Built on [Base44](https://app.base44.com/) – a low-code platform for AI-native apps |
-| **Data Sourcing**         | Public financial data retrieved via LLM with internet access (no private APIs)        |
+| **Data Sourcing**         | Public financial data retrieved via LLM with internet access         |
 | **Sustainability Focus**  | Dedicated sections for "Clean Energy ETFs", ESG analysis, and China's green finance   |
 | **Ethical Design**        | - No user financial data collected<br>- All outputs labeled “for informational purposes only”<br>- Sources disclosed in footnotes |
 
