@@ -3,7 +3,8 @@
 > **DIC 2025 Finance Track (Track 04) – Stage 1 Submission**  
 > Team: DIC04-AI_Finance
 > Repository: `DIC04-AI_Finance`  
-> Live Demo: contemporary demo site: https://etf-navigator-copy-fb62a339.base44.app/AIAssistant
+> Live Demo: contemporary demo site: [https://etf-navigator-f8d67fe2.base44.app/](https://etf-navigator-f8d67fe2.base44.app/)
+> **Current prototype**：https://etf-navigator-f8d67fe2.base44.app/
 
 ---
 
@@ -85,7 +86,7 @@ README-ZH
 > **DIC 2025 金融赛道（赛道 04）– 第一赛段提交**  
 > 团队：DIC04-AI_Finance  
 > 代码仓库：`DIC04-AI_Finance`  
-> 在线演示：暂定的演示地址：https://etf-navigator-copy-fb62a339.base44.app/AIAssistant
+> 在线演示：暂定的演示地址：https://etf-navigator-f8d67fe2.base44.app/
 
 ---
 
