@@ -4,7 +4,8 @@
 > Team: DIC04-AI_Finance
 > Repository: `DIC04-AI_Finance`  
 > Live Demo: contemporary demo site: [https://etf-navigator-f8d67fe2.base44.app/](https://etf-navigator-f8d67fe2.base44.app/)
-> **Current prototype**：https://etf-navigator-f8d67fe2.base44.app/
+
+>  **Current prototype**：https://etf-navigator-f8d67fe2.base44.app/
 
 ---
 
