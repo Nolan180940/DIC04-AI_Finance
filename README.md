@@ -1,3 +1,12 @@
+<img width="2288" height="1236" alt="69177839d825225395087abf7e4e75db" src="https://github.com/user-attachments/assets/6f9063de-2af7-45cb-82c6-7859b976ecf6" />
+
+
+# Here we're. The end of the journey...Eliminated in Stage one, but anyway the process is encouraging!
+
+
+
+
+
 # ETF Navigator: An AI Agent for Sustainable Investment Discovery
 
 > **DIC 2025 Finance Track (Track 04) – Stage 1 Submission**  
